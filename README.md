@@ -1,2 +1,2 @@
 # responsive_websites
-A few fully responsive websites I did using only HTML, CSS, and JS. No frameworks.
+A couple of responsive Bootstrap website templates I recreated using only HTML, CSS making ample use of Flexbox. No frameworks.
